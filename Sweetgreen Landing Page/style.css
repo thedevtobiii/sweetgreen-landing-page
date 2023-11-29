@@ -1,0 +1,109 @@
+
+body{
+    background-color: cornsilk ;
+    width: 100%;
+}
+@media (min-width: 769px) {
+    .imgsmall {
+      display: none;
+    }
+  }
+  
+  
+  @media (max-width:965px){
+    .logoimag{
+        display: none;
+    }
+  }
+  @media (min-width:1900px){
+    .logoimag{
+        display: none;
+    }
+  }
+  @media (max-width:860px){
+    .logoimag{
+        display: none;
+    }
+  }
+  @media(max-width:860px){
+    .ci{
+        height: 500px;
+        width: auto;
+    }
+  }
+  
+  .l2{
+    margin-top: 8px;
+  }
+  .l3{
+    margin-top: 8px;
+  }
+  .l4{
+    margin-top: 8px;
+  }
+  
+  .l6{
+    margin-top: 8px;
+  }
+  .l7{
+    margin-top: 8px;
+  }
+  .l8{
+    margin-top: 8px;
+  }
+  .ul1{
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .ul2{
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .cardi{
+    margin-top: 250px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  @media(min-width:1200px){
+    .cardi{ margin-top: 500px;
+    
+    }
+  }
+  
+  .hone{
+    font-family: 'Caveat', cursive;
+  }
+  .cdtxt{
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .d1{
+    font-family: 'Shadows Into Light', cursive;
+  }
+  .c2{
+    background-color: cornsilk;
+  }
+ 
+.ct1{
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.ct2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+
+.coll{ background-color: rgb(145, 182, 145);}
+.hfive{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.text-cornsilk{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+footer{ 
+    background-color: rgb(145, 182, 145);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+ul{ 
+    list-style: none;
+}
